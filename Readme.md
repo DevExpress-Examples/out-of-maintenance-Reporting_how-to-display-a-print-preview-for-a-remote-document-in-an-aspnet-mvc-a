@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/DXWebApplication1/Controllers/HomeController.cs)
+* [DocumentViewerPartial.cshtml](./CS/DXWebApplication1/Views/Home/DocumentViewerPartial.cshtml)
+* [Index.cshtml](./CS/DXWebApplication1/Views/Home/Index.cshtml)
+<!-- default file list end -->
 # How to display a print preview for a remote document in an ASP.NET MVC application
 
 
